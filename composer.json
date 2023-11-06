@@ -4,11 +4,10 @@
     "license": "MIT",
     "require": {
         "php": "^7.4|^8.0",
-        "../../../vendor/guzzlehttp/guzzle": "^5.0|^6.0|^7.0",
-        "../../../vendor/spatie/laravel-package-tools": "^1.9"
+        "spatie/laravel-package-tools": "^1.9"
     },
     "require-dev": {
-        "../../../vendor/phpunit/phpunit": "^9.3"
+        "phpunit/phpunit": "^9.3"
     },
     "autoload": {
         "psr-4": {
